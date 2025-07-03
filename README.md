@@ -1,76 +1,106 @@
-<!-- BANNER GIF (ảnh nền đầu trang) -->
+<!-- 🎬 FAKE BACKGROUND GIF (mờ mờ full width) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlraHdidDQxeTZ5dTVybjNpajYwcHp0N2N6bmppbXRqZzZxNzRxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="50%" />
 </p>
 
-<h1 align="center">🔥 Welcome to Thanh Luan's Dev Space 🔥</h1>
+<!-- 🧑‍🚀 HEADER -->
+<h1 align="center">🚀 Welcome to <span style="color:#f78da7;">Thanh Luan's</span> Dev Space 💻</h1>
 
+<!-- 🔗 Social Links -->
 <p align="center">
   <a href="https://luan0309-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-🌐 Portfolio-000?style=for-the-badge&logo=appveyor&logoColor=white"/></a>
   <a href="https://facebook.com/profile.php?id=100008443060908"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:letranthanhluan03092001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
+<!-- 👨‍💻 ABOUT -->
+<h1>🧠 About Me</h1> 
 
-- 🧠 Full-stack developer with passion for building creative and scalable web applications  
-- 🌎 Living on the edge of React ⚛️, Node.js 🌿, and Cloud ☁️  
-- 🛠️ I love clean code, performance, and solving complex problems  
-- 💌 Reach me: **thanhluan0309@gmail.com**
-
----
-
-## 🛠️ My Tech Toolbox
-
-<details>
-  <summary>Click to expand</summary>
-  
-### 🔷 Languages & Frontend
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white)
-
-### 🔶 Backend & DevOps
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### ☁️ Deployment & Cloud
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-009688?style=for-the-badge&logo=render&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</details>
+✨ Full-stack developer đam mê tạo ra những sản phẩm web **đẹp, mượt, nhanh**  
+⚡ Yêu thích: **React ⚛️, Node.js 🌿, Cloud ☁️**  
+🎯 Mục tiêu: Luôn học hỏi và phát triển không ngừng  
 
 ---
 
+<!-- 🧰 TECH STACK -->
+## 🧰 Tech Stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <strong>🔷 Frontend</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js"/>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <strong>🔶 Backend</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <strong>⚙️ DevOps</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<!-- 📊 GITHUB STATS -->
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhluan0309&theme=radical&hide_border=true&layout=compact" />
+</div>
+
+---
+
+<!-- 🏆 TROPHIES -->
+## 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhluan0309&theme=react&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhluan0309&theme=react&hide_border=true&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thanhluan0309&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-## 🚀 Visitor Counter
+<!-- ✨ QUOTE -->
+## ✨ Thought of the Day
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=thanhluan0309&icon=0&color=0" />
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=1d1f21&author_color=ffb86c&accent_color=8be9fd" />
 </p>
 
 ---
 
-> 👨‍💻 *Crafted with love & code by Thanh Luan*
+<!-- 📫 CONTACT -->
+## 🤝 Connect With Me
 
+<p align="center">
+  <a href="mailto:letranthanhluan03092001@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/></a>
+  <a href="https://github.com/thanhluan0309"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40"/></a>
+  <a href="https://facebook.com/profile.php?id=100008443060908"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="40"/></a>
+  <a href="https://luan0309-portfolio.netlify.app/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-personal-portfolio-link-for-employment-hire-me-advertisement-web-color-tal-revivo.png" width="40"/></a>
+</p>
+
+---
+
+<!-- 🎬 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+> 👨‍💻 *Crafted with caffeine & code by Thanh Luan ✨*"
