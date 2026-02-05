@@ -62,26 +62,6 @@
 
 </div>
 
----
-
-<!-- 📊 GITHUB STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhluan0309&theme=radical&hide_border=true&layout=compact" />
-</div>
-
----
-
-<!-- 🏆 TROPHIES -->
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thanhluan0309&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
----
-
 <!-- ✨ QUOTE -->
 ## ✨ Thought of the Day
 
