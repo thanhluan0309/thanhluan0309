@@ -11,26 +11,7 @@
 <!-- 🧑‍🚀 HEADER -->
 <h1 align="center">🚀 Welcome to <span style="color:#f78da7;">Thanh Luan's</span> Dev Space 💻</h1>
 
-<!-- 🔗 Social Links -->
-<p align="center">
-  <a href="https://luan0309-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-🌐 Portfolio-000?style=for-the-badge&logo=appveyor&logoColor=white"/></a>
-  <a href="https://facebook.com/profile.php?id=100008443060908"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="mailto:letranthanhluan03092001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
----
-
-<!-- 👨‍💻 ABOUT -->
-<h1>🧠 About Me</h1> 
-
-✨ Full-stack developer đam mê tạo ra những sản phẩm web **đẹp, mượt, nhanh**  
-⚡ Yêu thích: **React ⚛️, Node.js 🌿, Cloud ☁️**  
-🎯 Mục tiêu: Luôn học hỏi và phát triển không ngừng  
-
----
-
-<!-- 🧰 TECH STACK -->
-## 🧰 Tech Stack
 
 <div align="center">
 
