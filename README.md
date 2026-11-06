@@ -1,58 +1,115 @@
-<!-- 🎬 FAKE BACKGROUND GIF (mờ mờ full width) -->
-<h3>My portfolio :https://luan0309-portfolio.netlify.app/</h3>
-<hr/>
-
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlraHdidDQxeTZ5dTVybjNpajYwcHp0N2N6bmppbXRqZzZxNzRxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="50%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:f78da7,100:67e8f9&height=230&section=header&text=Thanh%20Luan&fontSize=72&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Coffee%20Lover&descSize=18&descAlignY=58" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F78DA7&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B+I'm+Thanh+Luan;I+build+fast+%26+beautiful+web+apps;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Docker;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://luan0309-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-f78da7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=thanhluan0309&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" />
+  <a href="https://github.com/thanhluan0309?tab=followers">
+    <img src="https://img.shields.io/github/followers/thanhluan0309?style=for-the-badge&color=67e8f9&labelColor=1a1b27&logo=github" />
+  </a>
+</p>
 
-<!-- 🧑‍🚀 HEADER -->
-<h1 align="center">🚀 Welcome to <span style="color:#f78da7;">Thanh Luan's</span> Dev Space 💻</h1>
+<br/>
 
+<!-- ================= ABOUT ================= -->
+<table align="center">
+<tr>
+<td width="55%" valign="middle">
 
+### 👨‍💻 About me
 
-<div align="center">
+```js
+const thanhLuan = {
+  role: "Full-stack Developer",
+  focus: ["Web apps", "REST APIs", "Cloud deploy"],
+  frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
+  backend: ["Node.js", "Express", "MongoDB", "MySQL"],
+  devops: ["Docker", "AWS", "Vercel", "Heroku"],
+  fuel: "☕ caffeine",
+  motto: "Code it. Ship it. Improve it.",
+};
+```
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <strong>🔷 Frontend</strong><br/><br/>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js"/>
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <strong>🔶 Backend</strong><br/><br/>
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <strong>⚙️ DevOps</strong><br/><br/>
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-    </td>
-  </tr>
+</td>
+<td width="45%" align="center" valign="middle">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlraHdidDQxeTZ5dTVybjNpajYwcHp0N2N6bmppbXRqZzZxNzRxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
+</td>
+</tr>
 </table>
 
-</div>
+<br/>
 
-<!-- ✨ QUOTE -->
-## ✨ Thought of the Day
+<!-- ================= TECH STACK ================= -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=1d1f21&author_color=ffb86c&accent_color=8be9fd" />
+  <b>Frontend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" />
 </p>
 
-<!-- 🎬 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <b>Backend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 </p>
 
-> 👨‍💻 *Crafted with caffeine & code by Thanh Luan ✨*"
+<p align="center">
+  <b>DevOps & Tools</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,heroku,git,github,vscode&theme=dark" />
+</p>
+
+<br/>
+
+<!-- ================= GITHUB STATS ================= -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thanhluan0309&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=f78da7&icon_color=a78bfa&text_color=c0caf5&ring_color=f78da7" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhluan0309&layout=compact&langs_count=8&hide_border=true&bg_color=1a1b27&title_color=f78da7&text_color=c0caf5" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thanhluan0309&hide_border=true&background=1A1B27&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7&sideLabels=A78BFA&dates=C0CAF5&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=A78BFA" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanhluan0309&bg_color=1a1b27&color=c0caf5&line=f78da7&point=a78bfa&area=true&area_color=a78bfa&hide_border=true&title_color=f78da7" />
+</p>
+
+<br/>
+
+<!-- ================= SNAKE ================= -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhluan0309/thanhluan0309/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhluan0309/thanhluan0309/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/thanhluan0309/thanhluan0309/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+<br/>
+
+<!-- ================= QUOTE ================= -->
+<h2 align="center">✨ Thought of the Day</h2>
+
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=1a1b27&author_color=f78da7&accent_color=a78bfa" />
+</p>
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:67e8f9,50:f78da7,100:a78bfa&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%" />
+</p>
+
+<p align="center"><i>👨‍💻 Crafted with caffeine & code by Thanh Luan ✨</i></p>
