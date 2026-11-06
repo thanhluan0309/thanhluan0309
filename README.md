@@ -50,20 +50,6 @@
   <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=1d1f21&author_color=ffb86c&accent_color=8be9fd" />
 </p>
 
----
-
-<!-- 📫 CONTACT -->
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:letranthanhluan03092001@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/></a>
-  <a href="https://github.com/thanhluan0309"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40"/></a>
-  <a href="https://facebook.com/profile.php?id=100008443060908"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="40"/></a>
-  <a href="https://luan0309-portfolio.netlify.app/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-personal-portfolio-link-for-employment-hire-me-advertisement-web-color-tal-revivo.png" width="40"/></a>
-</p>
-
----
-
 <!-- 🎬 FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
