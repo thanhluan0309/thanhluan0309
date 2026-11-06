@@ -73,8 +73,8 @@ const thanhLuan = {
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thanhluan0309&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=f78da7&icon_color=a78bfa&text_color=c0caf5&ring_color=f78da7" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhluan0309&layout=compact&langs_count=8&hide_border=true&bg_color=1a1b27&title_color=f78da7&text_color=c0caf5" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=thanhluan0309&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=f78da7&icon_color=a78bfa&text_color=c0caf5&ring_color=f78da7" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thanhluan0309&layout=compact&langs_count=8&hide_border=true&bg_color=1a1b27&title_color=f78da7&text_color=c0caf5" />
 </p>
 
 <p align="center">
