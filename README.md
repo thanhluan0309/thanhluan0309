@@ -81,10 +81,6 @@ const thanhLuan = {
   <img src="https://streak-stats.demolab.com?user=thanhluan0309&hide_border=true&background=1A1B27&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7&sideLabels=A78BFA&dates=C0CAF5&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=A78BFA" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanhluan0309&bg_color=1a1b27&color=c0caf5&line=f78da7&point=a78bfa&area=true&area_color=a78bfa&hide_border=true&title_color=f78da7" />
-</p>
-
 <br/>
 
 <!-- ================= SNAKE ================= -->
